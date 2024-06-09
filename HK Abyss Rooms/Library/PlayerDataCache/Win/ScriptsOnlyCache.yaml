@@ -1,0 +1,115 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - CameraLockArea
+    - DamageHero
+    - HazardRespawnMarker
+    - HazardRespawnTrigger
+    - TransitionPoint
+    Unity.AssetBundleBrowser.Editor.dll:
+    - AssetBundleBrowser.AssetBundleBrowserMain
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  sceneClasses:
+    Assets/Scenes/AbyssCorpseRoom.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 68
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1582}
+    - Class: 114
+      Script: {instanceID: 1758}
+    - Class: 114
+      Script: {instanceID: 1800}
+    - Class: 114
+      Script: {instanceID: 1888}
+    - Class: 114
+      Script: {instanceID: 2122}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: c3646cfe091407e195452a6f682bf503
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HazardRespawnMarker
+  - hash:
+      serializedVersion: 2
+      Hash: 95f72426b7c0dc6ddb00ec6d61633c0e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DamageHero
+  - hash:
+      serializedVersion: 2
+      Hash: c6b6de289082e31fe8127f8f2f8cb0f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TransitionPoint
+  - hash:
+      serializedVersion: 2
+      Hash: 429cf2798fa13add5ebfce58e00d42a8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HazardRespawnTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 9ccd51bfca52bb3836ace94aa84b2634
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraLockArea
+  platform: 5
+  scenePathNames:
+  - Assets/Scenes/AbyssCorpseRoom.unity
+  playerPath: C:/Users/WIN 11/Downloads/Hollow Knight Mods/Abyss+/abyssbund
